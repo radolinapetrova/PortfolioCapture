@@ -1,1 +1,3 @@
 # PortfolioCapture
+
+"Portfolio Capture" is s a practical tool developed in just one day to assist in efficiently gathering evidence for your portfolio. With its user-friendly interface, this tool simplifies the process of curating static content. You can effortlessly upload images to showcase your work, while the integrated text-to-speech functionality enables you to create captivating titles and descriptions for each post. Although it was completed within a short timeframe, "Portfolio Capture" serves as a valuable resource to comprehend the concept and operational mechanics behind effective portfolio building. The idea behind this project is to grasp the idea of how to end product would work.
